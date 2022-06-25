@@ -21,7 +21,7 @@ $("#start-14.description").val(localStorage.getItem("start-14"))
 $("#start-15.description").val(localStorage.getItem("start-15"))
 
 
-var pasthour
+vgiar pasthour
 var presenthour = currentTime;
 var futurehour
 console.log(currentTime)
